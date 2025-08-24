@@ -12,18 +12,18 @@ Create React App: Tool to set up a modern React application with no configuratio
 
 To run this application locally:
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/charanmailavarapu/Week_7_Day_1_Task-Management.git
 cd Week_7_Day_1_Task-Management
 
 
-Install dependencies:
+2. Install dependencies:
 
 npm install
 
 
-Start the development server:
+3. Start the development server:
 
 npm start
 
